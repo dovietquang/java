@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Giaiptbac1 {
     public static void main(String[] args) {
         double a,b;
-        Scanner scanner = new scanner(system.in);
+        Scanner scanner = new Scanner(system.in);
         System.out.print("Nhap a: ");
         a = scanner.nextDouble();
        System.out.print("Nhap b: ");

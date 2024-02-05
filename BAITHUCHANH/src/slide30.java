@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class slide30 {
     public static void main(String[] args) {
         int n, sodu, tong=0;
-        Scanner sc= new scanner(system.in);
+        Scanner sc= new Scanner(system.in);
         System.out.println("Nhap vao so nguyen duong bat ky:");
         n =sc.nextInt();
         while (n>0){
