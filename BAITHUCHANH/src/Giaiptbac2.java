@@ -1,15 +1,15 @@
-import java.util.Scanner;
 
-public class Giaiptbac2 {
+import java.util.Scanner;
+public class giaiptbac2 {
     public static void main(String[] args) {
-        Scanner sc = new scanner (system.in);
+        Scanner sc = new Scanner(System.in);
         double a, b, c, x1, x2, delta;
-        System.out.println("NHap a:");
-        a=sc.nextDouble();
-        System.out.println("nhap b:");
-        b=sc.nextDouble();
-        System.out.println("nhap c:");
-        c=sc.nextDouble();
+        System.out.println("nhap a: ");
+        a = sc.nextDouble();
+        System.out.println("nhap b: " );
+        b= sc.nextDouble();
+        System.out.println("nhap c: ");
+        c= sc.nextDouble();
         delta = b*b - 4*a*c;
         if( delta < 0){
             System.out.println("Phuong trinh vo nghiem");
