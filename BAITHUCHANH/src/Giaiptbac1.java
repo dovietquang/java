@@ -20,5 +20,4 @@ public class Giaiptbac1 {
        scanner.close();
    }
 }
-    }
-}
+    
